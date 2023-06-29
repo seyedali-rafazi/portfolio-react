@@ -67,6 +67,12 @@ npm update
 npm start
 ```
 
+### For upload website into your host
+
+```
+npm run build
+```
+
 ---
 
 # Folder Structure :open_file_folder:
