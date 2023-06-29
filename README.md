@@ -51,11 +51,6 @@ git --version
 npm install
 ```
 
-#### or
-
-```
-yarn install
-```
 
 #### If you get timeout eror use this commend
 
