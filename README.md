@@ -62,7 +62,7 @@ yarn install
 ```
 npm update
 ```
-### If the timeout problem is not fixed, download the complete file from here [dOWnload]([http://rafaziportfolio.ir/](https://s29.picofile.com/d/8465246492/da1818a8-3510-4bbf-a560-5e49d6973503/portfolio.rar)).
+### If the timeout problem is not fixed, download the complete file from here [dOWnload]([http://rafaziportfolio.ir/](https://s29.picofile.com/d/8465246492/da1818a8-3510-4bbf-a560-5e49d6973503/portfolio.rar).
 ```
 ### Start the development server
 
